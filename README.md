@@ -10,6 +10,9 @@ the video feed from the drone, it is of utmost importance that our system is rob
 tackle all these situations well. Thus, we have employed various data augmentation and
 fine tuning techniques in order to make our model robust so that it can perform well in all
 situations.
+![Screenshot from 2022-11-30 16-52-56](https://user-images.githubusercontent.com/69861341/204801854-ce81d50b-4ce8-4c7e-82ef-a942cf1da4a3.png)
+![Screenshot from 2022-11-30 16-52-39](https://user-images.githubusercontent.com/69861341/204801912-0deed378-64e8-4a3d-aff0-3360e4038989.png)
+
 
 # Steps to Run the Repository:
 
