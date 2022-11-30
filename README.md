@@ -17,3 +17,9 @@ situations.
 2. Create a photos folder which contains the photos of each individual in the database in seperate folders
 3. Install all the dependencies that are required
 4. Run python webstreaming_master.py --ip 127.0.0.1 --port 8080
+
+# Structure of the repository:
+
+1. notebook folder: It contains the ipynb files to individually test the detection and recognition algorithms, also contains files for finetuning.
+2. videos folder: It contains the demo videos of the working of the web interface for better understanding and reference.
+3. templates folder: It contains the files for the web interface containing the front end code.
