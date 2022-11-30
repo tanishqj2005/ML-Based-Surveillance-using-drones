@@ -1,4 +1,5 @@
 # ML-Based-Surveillance-using-drones
+## Btech Project of Tanishq Joshi(B19EE083) and Suyash Singh(B19EE100) under the guidance of Prof. Binod Kumar
 
 As security concerns are increasing in the world, it is of utmost importance that the
 surveillance is done in an efficient way. In this project, we have developed an end-to-end
